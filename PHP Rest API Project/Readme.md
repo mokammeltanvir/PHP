@@ -4,7 +4,7 @@ A simple CRUD project in PHP REST API
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![php rest api project](https://user-images.githubusercontent.com/69724418/195668819-9edb2dce-d985-4049-8cdd-788312c6f809.png)
 
 ## Tech Stack
 
