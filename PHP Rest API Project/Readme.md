@@ -10,7 +10,7 @@ A simple CRUD project in PHP REST API
 
 **Client:** HTML, CSS, JS, JQuery
 
-**Server:** PHP, REST API
+**Server:** PHP, MySQL, REST-API
 
 ## Authors
 
