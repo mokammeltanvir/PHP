@@ -22,7 +22,7 @@ $companyProfiles = array(
 */
 
 
-/* loop throght array */
+/* loop through array */
 // $companies = array("Honda", "Yamaha", "Bajaj", "Sujuki", "Kawasaki");
 // $companiesLength = count($companies);
 
